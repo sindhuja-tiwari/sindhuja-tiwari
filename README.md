@@ -1,5 +1,5 @@
 <!-- ========================= -->
-<!--   DARK TECH README        -->
+<!--   DARK TECH README v2     -->
 <!-- ========================= -->
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 <p align="center">
   <b>Artificial Intelligence & Machine Learning Engineer</b><br/>
-  Building scalable systems • Solving real-world problems • Engineering with clarity
+  Designing intelligent systems • Turning data into decisions • Engineering with intent
 </p>
 
 <p align="center">
@@ -28,5 +28,6 @@
 ## 🧠 About Me
 
 ```txt
-B.E. AIML @ Bangalore Institute of Technology (2023–2027)
+B.E. Artificial Intelligence & Machine Learning
+Bangalore Institute of Technology (2023 – 2027)
 CGPA: 8.42

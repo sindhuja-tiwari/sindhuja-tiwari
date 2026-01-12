@@ -1,13 +1,9 @@
 <!-- ========================= -->
-<!--   DARK PROFILE BLOCK     -->
-<!-- ========================= -->
-
-<!-- ========================= -->
-<!--   DARK TECH README v2     -->
+<!--   DARK TECH README        -->
 <!-- ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=120&section=header&text=Sindhuja%20Tiwari&fontColor=38bdf8&fontSize=38&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=020617&height=120&section=header&text=Sindhuja%20Tiwari&fontColor=38bdf8&fontSize=38&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -17,13 +13,13 @@
 
 <p align="center">
   <a href="https://github.com/sindhuja-tiwari">
-    <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/sindhuja-tiwari">
-    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+    <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
   <a href="mailto:sindhujatiwari101@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+    <img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
   </a>
 </p>
 
@@ -31,10 +27,11 @@
 
 ## 🧠 About Me
 
-```txt
-B.E. Artificial Intelligence & Machine Learning
-Bangalore Institute of Technology (2023 – 2027)
-CGPA: 8.42
+<p align="center">
+  <b>B.E. Artificial Intelligence & Machine Learning</b><br/>
+  Bangalore Institute of Technology (2023 – 2027)<br/>
+  CGPA: <b>8.42</b>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sindhuja-tiwari&label=Profile%20Views&color=38bdf8&style=flat" />
@@ -61,7 +58,7 @@ CGPA: 8.42
 
 ## 🛠️ Languages & Tools
 
-<p align="center" style="background-color:#020617; padding:12px; border-radius:12px;">
+<p align="center" style="background-color:#020617; padding:14px; border-radius:14px;">
   <!-- Languages -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
@@ -105,4 +102,8 @@ CGPA: 8.42
 
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=sindhuja-tiwari&theme=github-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <sub>Built with clarity • Optimized for impact</sub>
 </p>

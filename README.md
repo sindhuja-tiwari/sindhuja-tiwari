@@ -87,14 +87,6 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sindhuja-tiwari&layout=compact&theme=github_dark&hide_border=true" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=sindhuja-tiwari&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
 
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=sindhuja-tiwari&theme=github-dark&hide_border=true" />

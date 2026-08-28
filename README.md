@@ -37,10 +37,6 @@
   <img src="https://komarev.com/ghpvc/?username=sindhuja-tiwari&label=Profile%20Views&color=38bdf8&style=flat" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sindhuja-tiwari&theme=darkhub&no-frame=true&row=1&column=6" />
-</p>
-
 ---
 
 ## 🌐 Connect With Me

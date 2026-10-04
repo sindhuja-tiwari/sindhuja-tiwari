@@ -1,100 +1,89 @@
 <!-- ========================================================= -->
-<!--              SINDHUJA TIWARI — DARK README               -->
+<!--              SINDHUJA TIWARI — GITHUB README             -->
 <!-- ========================================================= -->
-
-<div style="background:#020617; color:#e2e8f0; padding:40px 30px; border-radius:16px;">
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:0284c7&height=220&section=header&text=Sindhuja%20Tiwari&fontSize=52&fontColor=38bdf8&fontAlignY=38&desc=Artificial%20Intelligence%20%26%20Machine%20Learning%20Engineer&descAlignY=62&descSize=19&animation=fadeIn" width="100%"/>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:020617,50:0f172a,100:0284c7&amp;height=220&amp;section=header&amp;text=Sindhuja%20Tiwari&amp;fontSize=52&amp;fontColor=38bdf8&amp;fontAlignY=38&amp;desc=Artificial%20Intelligence%20and%20Machine%20Learning%20Engineer&amp;descAlignY=62&amp;descSize=19&amp;animation=fadeIn"
+  width="100%"
+/>
 
-<br/>
+<br>
 
-<h2 style="color:#38bdf8;">
-Building intelligent systems that turn data into decisions.
-</h2>
+# Sindhuja Tiwari
 
-<p style="color:#94a3b8; font-size:16px;">
-Artificial Intelligence&nbsp;&nbsp; • &nbsp;&nbsp;
-Machine Learning&nbsp;&nbsp; • &nbsp;&nbsp;
-Algorithms&nbsp;&nbsp; • &nbsp;&nbsp;
-Systems Engineering
-</p>
+### Artificial Intelligence & Machine Learning Engineer
 
-<br/>
+**Building intelligent systems that turn data into decisions.**
+
+Artificial Intelligence • Machine Learning • Algorithms • Systems Engineering
+
+<br>
 
 <a href="https://github.com/sindhuja-tiwari">
-<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&amp;logo=github&amp;logoColor=ffffff" />
 </a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/sindhuja-tiwari">
-<img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&amp;logo=linkedin&amp;logoColor=0A66C2" />
 </a>
-
+&nbsp;
 <a href="mailto:sindhujatiwari101@gmail.com">
-<img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+  <img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&amp;logo=gmail&amp;logoColor=EA4335" />
 </a>
-
+&nbsp;
 <a href="https://leetcode.com/sindhuja-tiwari">
-<img src="https://img.shields.io/badge/LeetCode-020617?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+  <img src="https://img.shields.io/badge/LeetCode-020617?style=for-the-badge&amp;logo=leetcode&amp;logoColor=FFA116" />
 </a>
 
-<br/><br/>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=sindhuja-tiwari&label=PROFILE%20VIEWS&color=0284c7&style=for-the-badge"/>
+<img
+  src="https://komarev.com/ghpvc/?username=sindhuja-tiwari&amp;label=PROFILE%20VIEWS&amp;color=0284c7&amp;style=for-the-badge"
+/>
 
 </div>
 
 ---
 
-<h2 style="color:#38bdf8;">🧠 About Me</h2>
+## 🧠 About Me
 
-<p style="color:#cbd5e1; font-size:16px; line-height:1.7;">
+I'm an **Artificial Intelligence & Machine Learning engineering student** focused on building intelligent, efficient, and practical software systems.
 
-I'm an <b style="color:#38bdf8;">Artificial Intelligence & Machine Learning engineering student</b>
-focused on building intelligent, efficient and practical software systems.
-
-</p>
-
-<table>
-<tr>
-<td width="50%" style="background:#0f172a; border:1px solid #1e293b;">
-
-### 🎓 Education
-
-**B.E. Artificial Intelligence & Machine Learning**
-
-Bangalore Institute of Technology
-
-**2023 – 2027**
-
-**CGPA: 8.42**
-
-</td>
-
-<td width="50%" style="background:#0f172a; border:1px solid #1e293b;">
-
-### 🔬 Interests
-
-- Artificial Intelligence
-- Machine Learning
-- Algorithms
-- Vector Search
-- High-Performance Computing
-- Backend Engineering
-
-</td>
-</tr>
-</table>
+I enjoy working at the intersection of **AI, algorithms, systems engineering, and backend development**, with a particular interest in building solutions that are both technically strong and practically useful.
 
 ---
 
-<h2 style="color:#38bdf8;">⚡ What I Build</h2>
+## 🎓 Education
+
+**B.E. Artificial Intelligence & Machine Learning**  
+**Bangalore Institute of Technology**
+
+📅 **2023 – 2027**
+
+📊 **CGPA: 8.42**
+
+---
+
+## 🔬 Areas of Interest
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 📊 Data Processing
+- ⚡ Algorithms & Data Structures
+- 🔍 Vector Search
+- 🚀 High-Performance Computing
+- ⚙️ Backend Engineering
+- ☁️ Cloud Technologies
+
+---
+
+## ⚡ What I Build
 
 <table>
 <tr>
-
-<td width="33%" align="center" style="background:#0f172a;">
+<td width="33%" align="center">
 
 ### 🤖 AI / ML
 
@@ -105,7 +94,7 @@ Intelligent Systems
 
 </td>
 
-<td width="33%" align="center" style="background:#0f172a;">
+<td width="33%" align="center">
 
 ### ⚙️ Systems
 
@@ -116,7 +105,7 @@ C / C++
 
 </td>
 
-<td width="33%" align="center" style="background:#0f172a;">
+<td width="33%" align="center">
 
 ### 🌐 Software
 
@@ -126,109 +115,121 @@ Web Applications
 Cloud Technologies
 
 </td>
-
 </tr>
 </table>
 
 ---
 
-<h2 style="color:#38bdf8;">🚀 Featured Project</h2>
+## 🚀 Featured Project
 
-<div style="background:#0f172a; padding:22px; border:1px solid #1e293b; border-radius:12px;">
+### 🔍 HNSW Vector Search — C++
 
-<h3 style="color:#38bdf8;">🔍 HNSW Vector Search — C++</h3>
+A performance-oriented implementation and benchmarking project exploring **Hierarchical Navigable Small World (HNSW)** graphs for approximate nearest-neighbor search.
 
-<p style="color:#cbd5e1;">
+#### Highlights
 
-A performance-oriented implementation and benchmarking project exploring
-<b>Hierarchical Navigable Small World (HNSW)</b> graphs for
-approximate nearest-neighbor search.
+- Implemented HNSW-based vector search in **C++**
+- Focused on approximate nearest-neighbor retrieval
+- Explored graph-based indexing techniques
+- Performed performance benchmarking
+- Studied the trade-offs between **search accuracy, latency, and memory**
 
-</p>
+#### Technologies
 
-<p>
-
-<img src="https://img.shields.io/badge/C++-17-38bdf8?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/HNSW-Vector%20Search-0ea5e9?style=flat-square"/>
-<img src="https://img.shields.io/badge/Performance-Benchmarking-0284c7?style=flat-square"/>
-
-</p>
-
-</div>
-
-<br/>
+![C++](https://img.shields.io/badge/C%2B%2B-17-38bdf8?style=flat-square&logo=cplusplus&logoColor=white)
+![HNSW](https://img.shields.io/badge/HNSW-Vector%20Search-0ea5e9?style=flat-square)
+![Performance](https://img.shields.io/badge/Performance-Benchmarking-0284c7?style=flat-square)
 
 ---
 
-<h2 style="color:#38bdf8;">🛠️ Tech Stack</h2>
+## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,ruby&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,ruby&amp;theme=dark" />
 </p>
 
-### AI / Machine Learning
+### 🤖 AI / Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&amp;theme=dark" />
 </p>
 
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>
-&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45"/>
-&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="45"/>
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"
+    width="45"
+    alt="Pandas"
+  />
+  &nbsp;&nbsp;
+  <img
+    src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
+    width="45"
+    alt="Scikit-learn"
+  />
+  &nbsp;&nbsp;
+  <img
+    src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"
+    width="45"
+    alt="MATLAB"
+  />
 </p>
 
-### Web & Backend
+### 🌐 Web & Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,django&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,django&amp;theme=dark" />
 </p>
 
-### Databases & Cloud
+### 🗄️ Databases & Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws&amp;theme=dark" />
 </p>
 
-### Tools
+### 🔧 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&amp;theme=dark" />
 </p>
 
 ---
 
-<h2 style="color:#38bdf8;">📊 GitHub Activity</h2>
+## 📊 GitHub Statistics
 
 <div align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=sindhuja-tiwari&show_icons=true&hide_border=true&bg_color=020617&title_color=38bdf8&icon_color=0ea5e9&text_color=e2e8f0&rank_icon=github"
+  src="https://github-readme-stats.vercel.app/api?username=sindhuja-tiwari&amp;show_icons=true&amp;hide_border=true&amp;bg_color=020617&amp;title_color=38bdf8&amp;icon_color=0ea5e9&amp;text_color=e2e8f0&amp;rank_icon=github"
+  height="180"
+  alt="GitHub Statistics"
 />
 
+&nbsp;&nbsp;
+
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=sindhuja-tiwari&layout=compact&hide_border=true&bg_color=020617&title_color=38bdf8&text_color=e2e8f0"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sindhuja-tiwari&amp;layout=compact&amp;hide_border=true&amp;bg_color=020617&amp;title_color=38bdf8&amp;text_color=e2e8f0"
+  height="180"
+  alt="Top Languages"
 />
 
 </div>
 
-<br/>
+<br>
 
 <div align="center">
 
 <img
-src="https://github-readme-streak-stats.herokuapp.com/?user=sindhuja-tiwari&theme=dark&background=020617&hide_border=true&ring=38bdf8&fire=0ea5e9&currStreakLabel=38bdf8"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=sindhuja-tiwari&amp;theme=dark&amp;background=020617&amp;hide_border=true&amp;ring=38bdf8&amp;fire=0ea5e9&amp;currStreakLabel=38bdf8"
+  alt="GitHub Streak"
 />
 
 </div>
 
 ---
 
-<h2 style="color:#38bdf8;">📚 Currently Exploring</h2>
+## 📚 Currently Exploring
 
 ```text
 Artificial Intelligence

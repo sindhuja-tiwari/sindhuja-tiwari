@@ -7,9 +7,6 @@
 />
 
 <br>
-
-### Artificial Intelligence & Machine Learning Engineer
-
 **Building intelligent systems that turn data into decisions.**
 
 Artificial Intelligence • Machine Learning • Algorithms • Systems Engineering

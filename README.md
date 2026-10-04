@@ -7,10 +7,8 @@
 />
 
 <br>
-**Building intelligent systems that turn data into decisions.**
-
+Building intelligent systems that turn data into decisions.
 Artificial Intelligence • Machine Learning • Algorithms • Systems Engineering
-
 <br>
 
 <a href="https://github.com/sindhuja-tiwari">

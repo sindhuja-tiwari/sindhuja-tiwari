@@ -5,12 +5,14 @@
   width="100%"
   alt="Sindhuja Tiwari"
 />
-
 <br>
-Building intelligent systems that turn data into decisions.
+
+### 
+**Building intelligent systems that turn data into decisions.**
+
 Artificial Intelligence • Machine Learning • Algorithms • Systems Engineering
-<br>
 
+<br>
 <a href="https://github.com/sindhuja-tiwari">
 <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
 </a>

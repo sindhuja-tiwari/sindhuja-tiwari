@@ -71,12 +71,6 @@ I enjoy understanding how things work under the hood and building solutions that
 
 ---
 
-## 🚀 Featured Project
-
-### 🔍 HNSW Vector Search — C++
-
-A performance-oriented implementation and benchmarking project exploring **Hierarchical Navigable Small World (HNSW)** graphs for approximate nearest-neighbor search.
-
 **Focus areas:**
 
 - Approximate nearest-neighbor search

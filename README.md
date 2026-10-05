@@ -71,25 +71,6 @@ I enjoy understanding how things work under the hood and building solutions that
 
 ---
 
-**Focus areas:**
-
-- Approximate nearest-neighbor search
-- Graph-based indexing
-- Vector similarity search
-- Search performance optimization
-- Latency and accuracy trade-offs
-- Memory and computational efficiency
-- C++ implementation and benchmarking
-
-**Tech Stack**
-
-![C++](https://img.shields.io/badge/C%2B%2B-17-38bdf8?style=flat-square&amp;logo=cplusplus&amp;logoColor=white)
-![HNSW](https://img.shields.io/badge/HNSW-Vector%20Search-0ea5e9?style=flat-square)
-![Algorithms](https://img.shields.io/badge/Algorithms-0284c7?style=flat-square)
-![Performance](https://img.shields.io/badge/Performance-Benchmarking-0369a1?style=flat-square)
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages

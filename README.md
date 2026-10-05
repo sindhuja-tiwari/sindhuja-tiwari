@@ -65,7 +65,7 @@ I enjoy understanding how things work under the hood and building solutions that
 |:---:|:---:|:---:|
 | Machine Learning | Data Structures | Backend Development |
 | Deep Learning | Algorithms | Databases |
-| Intelligent Systems | C / C++ | Web Applications |
+| Intelligent Systems | Python, C++ | Web Applications |
 | Data Processing | Performance Optimization | Cloud Technologies |
 | Vector Search | High-Performance Computing | Distributed Systems |
 

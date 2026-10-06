@@ -126,11 +126,10 @@ I enjoy understanding how things work under the hood and building solutions that
 ---
 
 ## 📊 GitHub Activity
-
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=sindhuja-tiwari&amp;show_icons=true&amp;hide_border=true&amp;bg_color=020617&amp;title_color=38bdf8&amp;icon_color=0ea5e9&amp;text_color=e2e8f0&amp;rank_icon=github"
+  src="https://github-readme-stats.vercel.app/api?username=sindhuja-tiwari&show_icons=true&hide_border=true&bg_color=020617&title_color=38bdf8&icon_color=0ea5e9&text_color=e2e8f0&rank_icon=github"
   height="180"
   alt="GitHub Statistics"
 />
@@ -138,7 +137,7 @@ I enjoy understanding how things work under the hood and building solutions that
 &nbsp;&nbsp;
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sindhuja-tiwari&amp;layout=compact&amp;hide_border=true&amp;bg_color=020617&amp;title_color=38bdf8&amp;text_color=e2e8f0"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sindhuja-tiwari&layout=compact&hide_border=true&bg_color=020617&title_color=38bdf8&text_color=e2e8f0"
   height="180"
   alt="Top Languages"
 />
@@ -146,12 +145,11 @@ I enjoy understanding how things work under the hood and building solutions that
 <br><br>
 
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=sindhuja-tiwari&amp;theme=dark&amp;background=020617&amp;hide_border=true&amp;ring=38bdf8&amp;fire=0ea5e9&amp;currStreakLabel=38bdf8"
+  src="https://streak-stats.demolab.com/?user=sindhuja-tiwari&theme=dark&background=020617&hide_border=true&ring=38bdf8&fire=0ea5e9&currStreakLabel=38bdf8"
   alt="GitHub Streak"
 />
 
 </div>
-
 ---
 
 ## 📚 Currently Exploring

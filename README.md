@@ -30,12 +30,6 @@ Artificial Intelligence • Machine Learning • Algorithms • Systems Engineer
 </a>
 
 <br><br>
-
-<img
-  src="https://komarev.com/ghpvc/?username=sindhuja-tiwari&amp;label=PROFILE%20VIEWS&amp;color=0284c7&amp;style=for-the-badge"
-  alt="Profile Views"
-/>
-
 </div>
 
 ---

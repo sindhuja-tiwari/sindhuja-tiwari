@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="350" viewBox="0 0 1000 350" role="img" aria-label="Current focus as a top-4 nearest-neighbour query: Vector Search 0.90, C++ Performance 0.85, AI and ML 0.80, Systems Engineering 0.75.">
+<defs><linearGradient id="bar" x1="0" x2="1"><stop offset="0" stop-color="#0ea5e9"/><stop offset="1" stop-color="#38bdf8"/></linearGradient></defs>
+<style>
+  .t { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; } .m { font-family: 'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace; }
+  .row { animation: in .5s ease-out backwards; }
+  .fill { transform-box: fill-box; transform-origin: left; animation: grow 1.2s cubic-bezier(.2,.7,.2,1) backwards; }
+  @keyframes in { from { opacity: 0; } }
+  @keyframes grow { from { transform: scaleX(0); } }
+  @keyframes blink { 50% { opacity: 0; } }
+  .cursor { animation: blink 1s steps(1) infinite; }
+</style>
+<rect width="1000" height="350" rx="14" fill="#020617"/>
+<rect x=".5" y=".5" width="999" height="349" rx="14" fill="none" stroke="#1e293b"/>
+<path d="M0 14a14 14 0 0 1 14-14h972a14 14 0 0 1 14 14v26H0z" fill="#0f172a"/>
+<circle cx="26" cy="20" r="6" fill="#f87171"/><circle cx="46" cy="20" r="6" fill="#fbbf24"/><circle cx="66" cy="20" r="6" fill="#34d399"/>
+<text x="500.0" y="25" text-anchor="middle" class="m" font-size="13" fill="#64748b">~/sindhuja — focus.query</text>
+<text x="32" y="80" class="m" font-size="16" fill="#e2e8f0"><tspan fill="#fbbf24">❯</tspan> ./hnsw search <tspan fill="#38bdf8">--query</tspan> "what am I working on" <tspan fill="#38bdf8">--top-k</tspan> 4</text>
+<text x="32" y="114" class="m" font-size="13" fill="#64748b">rank</text><text x="96" y="114" class="m" font-size="13" fill="#64748b">neighbour</text><text x="400" y="114" class="m" font-size="13" fill="#64748b">score</text><text x="862" y="114" class="m" font-size="13" fill="#64748b">sim</text>
+
+<g class="row" style="animation-delay:0.40s">
+  <text x="32" y="150" class="m" font-size="15" fill="#64748b">#1</text>
+  <text x="96" y="150" class="m" font-size="15" fill="#e2e8f0">Vector Search</text>
+  <rect x="400" y="138" width="440" height="14" rx="7" fill="#1e293b"/>
+  <rect class="fill" style="animation-delay:0.50s" x="400" y="138" width="396" height="14" rx="7" fill="url(#bar)"/>
+  <text x="862" y="150" class="m" font-size="15" fill="#38bdf8">0.90</text>
+</g>
+<g class="row" style="animation-delay:0.65s">
+  <text x="32" y="188" class="m" font-size="15" fill="#64748b">#2</text>
+  <text x="96" y="188" class="m" font-size="15" fill="#e2e8f0">C++ Performance</text>
+  <rect x="400" y="176" width="440" height="14" rx="7" fill="#1e293b"/>
+  <rect class="fill" style="animation-delay:0.75s" x="400" y="176" width="374" height="14" rx="7" fill="url(#bar)"/>
+  <text x="862" y="188" class="m" font-size="15" fill="#38bdf8">0.85</text>
+</g>
+<g class="row" style="animation-delay:0.90s">
+  <text x="32" y="226" class="m" font-size="15" fill="#64748b">#3</text>
+  <text x="96" y="226" class="m" font-size="15" fill="#e2e8f0">AI / ML</text>
+  <rect x="400" y="214" width="440" height="14" rx="7" fill="#1e293b"/>
+  <rect class="fill" style="animation-delay:1.00s" x="400" y="214" width="352" height="14" rx="7" fill="url(#bar)"/>
+  <text x="862" y="226" class="m" font-size="15" fill="#38bdf8">0.80</text>
+</g>
+<g class="row" style="animation-delay:1.15s">
+  <text x="32" y="264" class="m" font-size="15" fill="#64748b">#4</text>
+  <text x="96" y="264" class="m" font-size="15" fill="#e2e8f0">Systems Engineering</text>
+  <rect x="400" y="252" width="440" height="14" rx="7" fill="#1e293b"/>
+  <rect class="fill" style="animation-delay:1.25s" x="400" y="252" width="330" height="14" rx="7" fill="url(#bar)"/>
+  <text x="862" y="264" class="m" font-size="15" fill="#38bdf8">0.75</text>
+</g>
+<g class="row" style="animation-delay:1.9s"><text x="32" y="310" class="m" font-size="14" fill="#34d399">✓ 4 neighbours found <tspan fill="#64748b">· cosine similarity · always learning</tspan></text>
+<rect x="32" y="324" width="9" height="2" fill="#38bdf8" class="cursor"/></g>
+</svg>

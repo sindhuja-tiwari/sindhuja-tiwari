@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="12" viewBox="0 0 1000 12" role="presentation">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#38bdf8" stop-opacity="0"/><stop offset=".5" stop-color="#38bdf8"/><stop offset="1" stop-color="#38bdf8" stop-opacity="0"/></linearGradient></defs>
+<rect y="5.5" width="1000" height="1" fill="#334155" opacity=".5"/>
+<rect y="5" width="220" height="2" fill="url(#g)"><animate attributeName="x" values="-220;1000" dur="4s" repeatCount="indefinite"/></rect>
+</svg>

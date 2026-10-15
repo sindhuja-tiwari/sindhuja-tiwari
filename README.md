@@ -5,7 +5,6 @@
 <p align="center">
   <a href="https://github.com/sindhuja-tiwari"><img src="https://img.shields.io/badge/GitHub-sindhuja--tiwari-38bdf8?style=for-the-badge&logo=github&logoColor=white&labelColor=020617" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0ea5e9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020617" alt="LinkedIn" /></a>
-  <img src="https://komarev.com/ghpvc/?username=sindhuja-tiwari&label=profile%20queries&color=0ea5e9&style=for-the-badge&labelColor=020617" alt="Profile views" />
 </p>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
@@ -105,5 +104,3 @@ A from-scratch **C++17 HNSW approximate nearest-neighbor search engine** built t
     <img src="https://raw.githubusercontent.com/sindhuja-tiwari/sindhuja-tiwari/output/github-snake-dark.svg" alt="GitHub contribution snake" width="100%" />
   </picture>
 </p>
-
-<p align="center"><sub><code>return nearest_neighbor(you);</code> &nbsp;·&nbsp; thanks for visiting</sub></p>

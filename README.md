@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/sindhuja-tiwari"><img src="https://img.shields.io/badge/GitHub-sindhuja--tiwari-38bdf8?style=for-the-badge&logo=github&logoColor=white&labelColor=020617" alt="GitHub" /></a>
-  <a href="https://https://www.linkedin.com/in/sindhuja-tiwari-5a6ba82ba/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0ea5e9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020617" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/sindhuja-tiwari-5a6ba82ba/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0ea5e9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020617" alt="LinkedIn" /></a>
   <a href="https://sindhuja.vercel.app"><img src="https://img.shields.io/badge/Portfolio-sindhuja.vercel.app-6366f1?style=for-the-badge&logo=vercel&logoColor=white&labelColor=020617" alt="Portfolio" /></a>
   <a href="https://leetcode.com/sindhuja-tiwari"><img src="https://img.shields.io/badge/LeetCode-sindhuja--tiwari-f59e0b?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=020617" alt="LeetCode" /></a>
 </p>

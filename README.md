@@ -98,3 +98,23 @@ in the banner above is a tiny HNSW index running a real greedy search.
 `C++17` · `Python` · `SQL` · `scikit-learn` · `XGBoost` · `RAG` · `Vector Search` · `Algorithms` · `Docker` · `Linux`
 
 </p>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+### 📈 GitHub Activity
+
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details and contribution history" width="100%" />
+</p>
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" width="49%" />
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most committed languages" width="49%" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sindhuja-tiwari/sindhuja-tiwari/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sindhuja-tiwari/sindhuja-tiwari/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/sindhuja-tiwari/sindhuja-tiwari/output/github-snake-dark.svg" alt="GitHub contribution snake" width="100%" />
+  </picture>
+</p>
